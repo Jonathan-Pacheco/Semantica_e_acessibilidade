@@ -1,2 +1,2 @@
 # semantics and accessibility
-## Layout made to train semantic and accessibility features.
+## Using a gym landing page to train semantic and accessibility features.
